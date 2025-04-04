@@ -125,9 +125,9 @@ Below is a sample view of the data model used in this project:
 ---
 
 > [!CAUTION]  
-- Avoid treating this dataset as real-world financial data.  
-- All business logic and relationships are **designed for illustration only**.  
-- For production-level dashboards, always ensure **data governance**, **source validation**, and **user testing**.
+> - Avoid treating this dataset as real-world financial data.  
+> - All business logic and relationships are **designed for illustration only**.  
+> - For production-level dashboards, always ensure **data governance**, **source validation**, and **user testing**.
 
 ## License
 
@@ -138,6 +138,6 @@ Feel free to use the structure as inspiration, but give credit where due.
 
 ## Contact
 
-For questions or collaboration opportunities, connect with me on [LinkedIn](linkedin.com/in/mohammed-ahmed-052769239).
+For questions or collaboration opportunities, connect with me on  [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-052769239).
 
 
