@@ -138,6 +138,6 @@ Feel free to use the structure as inspiration, but give credit where due.
 
 ## Contact
 
-For questions or collaboration opportunities, connect with me on [LinkedIn](linkedin.com/in/mohammed-ahmed-052769239).
+For questions or collaboration opportunities, connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-052769239).
 
 
