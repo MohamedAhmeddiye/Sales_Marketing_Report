@@ -1,4 +1,5 @@
 # Sales Marketing Report
+![Dashboard](Screenshots/1.png)
 
 This project is a **Sales & Marketing Report** built using Power BI.  
 It showcases a complete transformation of raw transactional data into an optimized **Star Schema model** using data modeling best practices — primarily **Normalization and Denormalization** techniques.
@@ -100,7 +101,7 @@ Through normalization:
 
 Below is a sample view of the data model used in this project:
 
-![Data Model](Screenshots\2.png)
+![Data Model](Screenshots/2.png)
 
 ---
 > [!NOTE]  
